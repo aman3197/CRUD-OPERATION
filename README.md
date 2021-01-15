@@ -1,7 +1,7 @@
 # CRUD-OPERATION
 Technology Stack:
-JAVA 8
-Springboot 2
+JAVA 8,
+Springboot 2,
 MySql
 
 Created an Restful API using  springboot for performing CRUD operations on MySql database.
